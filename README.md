@@ -25,4 +25,4 @@ The following are instructions for installing Apache Maven and Java 8 on an Amaz
 5. Enter the following to set Java 8 as the default compiler on your EC2 instance.
 
     `sudo /usr/sbin/alternatives --config javac`
-- When prompted, enter the number for Java 8.
+- When prompted, enter the number for Java 8. 
